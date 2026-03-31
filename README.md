@@ -29,6 +29,8 @@ Follow these steps to run the scripts on your Linux terminal:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/ChouhanGourav/oss-audit-24BCE11309.git](https://github.com/ChouhanGourav/oss-audit-24BCE11309.git)
+   ```
+   ```bash
    cd oss-audit-24BCE11309
 2. **Grant execution permissions to all scripts:**
     chmod +x *.sh
