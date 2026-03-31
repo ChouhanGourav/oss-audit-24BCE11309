@@ -1,11 +1,11 @@
 # oss-audit--24BCE11309-
 Capstone project for the OSS NGMC Course: A structured open-source audit of VLC Media Player, featuring custom Linux shell scripts for system analysis and automation.
 
-# OSS Audit: VLC Media Player
 
 **Student Name:** Gourav Chouhan
 **Roll Number:** 24BCE11309
 **Course:** Open Source Software (OSS NGMC)
+**Chosen Software:** VLC Media Player
 
 ## Project Overview
 This repository contains five Linux shell scripts developed as part of the OSS NGMC Capstone Project. The project audits **VLC Media Player**, exploring its open-source footprint, system integration, and execution environment on Linux.
